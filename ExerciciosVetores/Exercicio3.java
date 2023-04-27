@@ -1,5 +1,3 @@
-//Faça um programa que receba 10 números inteiros, armazene-os e verifique quais numeros são pares, e exiba para o usuário apenas os números pares da lista
-
 public class Exercicio3 {
     public static void main(String[] args) {
         int valores[] = new int[10];

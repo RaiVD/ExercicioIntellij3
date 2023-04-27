@@ -1,5 +1,4 @@
 import java.util.Scanner;
-
 //2. Faça um programa de lista de chamada que armazene o nome de 10 alunos e apresente a lista completa para o usuário
 public class Exercicio2 {
     public static void main(String[] args) {
