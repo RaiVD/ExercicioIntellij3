@@ -7,8 +7,6 @@ public class Exercicio4 {
             } else {
                 System.out.println(i);
             }
-
         }
-
     }
 }
