@@ -5,7 +5,5 @@ public class Exercicio3 {
             System.out.println("Numero inteiro: "+ i);
             i++;
         }while(i<=110);
-
-
     }
 }
